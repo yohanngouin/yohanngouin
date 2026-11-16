@@ -1,4 +1,47 @@
-## Hi there 👋
+
+# Hey, I'm Yohann 👋
+
+🎓 Computer Science student at Loyola University Maryland  
+📍 Baltimore, MD | Graduating May 2027  
+💻 Interested in software development, IT, and data analytics  
+🔎 Seeking a Spring 2027 tech internship
+
+## About Me
+
+I'm a Computer Science student who enjoys building practical
+applications and solving real-world problems.
+
+My experience includes full-stack web development, networking,
+IT support, and collaborative software projects.
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, Java, C++, HTML
+
+**Frameworks:** React, Flask, Node.js, Express
+
+**Tools:** Git, MongoDB, VS Code, Jest, Supertest
+
+## Featured Projects
+
+### 🏆 WiFi Whisperer
+Awarded "Best Everyday Use" at HackHounds 2026.
+
+A real-time campus Wi-Fi visualization application using
+Python, Flask, JavaScript, Tailwind CSS, and Leaflet.js.
+
+[View Project](https://github.com/yohanngouin/Hackathon2026)
+
+### 🌊 Digital Watershed
+A full-stack research archive platform built using
+React, Node.js, Express, and MongoDB.
+
+Features include tagging, data export, annotations,
+and automated testing.
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/yohann-gouin)
 
 <!--
 **yohanngouin/yohanngouin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
