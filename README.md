@@ -32,12 +32,20 @@ Python, Flask, JavaScript, Tailwind CSS, and Leaflet.js.
 
 [View Project](https://github.com/yohanngouin/Hackathon2026)
 
-### 🌊 Digital Watershed
-A full-stack research archive platform built using
-React, Node.js, Express, and MongoDB.
 
-Features include tagging, data export, annotations,
-and automated testing.
+### 🌊 Digital Watershed | Full-Stack Developer
+
+Collaborated on a full-stack research archive application
+developed for Loyola University Maryland.
+
+**Tech Stack:** React, Node.js, Express, MongoDB,
+Jest, Supertest
+
+**My Contributions:**
+- Developed bulk export functionality
+- Implemented audit logging features
+- Contributed to backend development and debugging
+- Collaborated using Git and GitHub
 
 ## Connect With Me
 
